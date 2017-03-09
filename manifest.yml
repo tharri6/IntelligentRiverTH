@@ -7,4 +7,4 @@ applications:
   host: IntelligentRiverTH
   disk_quota: 1024M
   services:
-  - Weather Company Data-bm
+  - Weather Company Data-m7
